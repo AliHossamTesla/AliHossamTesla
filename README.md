@@ -9,7 +9,6 @@
 
 - 🏢 I'm a computer student at shoubra faculty of engineering .
 - 👨‍💻 I love prolem solving and work to improve my skills in it .
-- ⚡ future intend : I prepare to be data science engineer .
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/ali-hossam-el-nagar-088313266" target="_blank"><img src="https://img.shields.io/badge/-Ali%20Hossam%20ElNagar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
