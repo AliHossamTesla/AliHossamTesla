@@ -2,7 +2,7 @@
 
 **Software Engineer Student | Competitive Programmer | Backend Developer**
 
-I’m a Computer & Communications Engineering student at the Faculty of Engineering, Shoubra.  
+I’m a Computer Engineering student at the Faculty of Engineering, Shoubra.  
 Passionate about building scalable backend systems and solving algorithmic challenges that push the limits.  
 
 ---
