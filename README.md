@@ -39,8 +39,8 @@ Includes:
 ---
 
 ## 📊 Competitive Programming Stats
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=AliHossamTesla)
-![LeetCode Stats](https://leetcard.jacoblin.cool/AliHossamTesla?theme=dark)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=tesla.)
+![LeetCode Stats](https://leetcard.jacoblin.cool/AliHossam_?theme=dark)
 
 ---
 
