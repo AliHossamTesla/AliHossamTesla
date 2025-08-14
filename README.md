@@ -46,4 +46,7 @@ Includes:
 
 ## 📫 Connect
 - **GitHub**: [AliHossamTesla](https://github.com/AliHossamTesla)
-- **LinkedIn**: [Ali Hossam](https://linkedin.com/in/alihossamtesla)
+- **LinkedIn**: [‏Ali Hossam El-Nagar]([https://linkedin.com/in/alihossamtesla](https://www.linkedin.com/in/ali-hossam-elnagar/))
+- **YouTube**: [Ali Hossam](https://www.youtube.com/channel/UCoTBznDqdA-tc-FO9AGIZUQ)
+- **Twitch**: [Tesla1424](https://www.twitch.tv/tesla1424)
+- **X**: [Ali Hossam | أَبُو عَائِشَةَ](https://x.com/Tesla1424)
